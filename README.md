@@ -1,74 +1,30 @@
+<h1 align="center">Hi 👋, I'm Jagadeesh Madisetty</h1>
+<h3 align="center">"Data Analyst | BI Developer | SQL & Python Enthusiast | Transforming Data into Actionable Insights"</h3>
 
-<a href="https://github.com/JagadeeshMadisetty" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=JagadeeshMadisetty&count_private=true&theme=radical" />
-</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshmadisetty&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshmadisetty" /> </p>
 
-<h1>Hi 👋, I'm Jagadeesh Madisetty</h1>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagadeeshmadisetty" alt="jagadeeshmadisetty" /></a> </p>
 
-<p>👋 About Me Hi there! I'm Venkata Madisetty, a seasoned Data Analyst, Information Analyst, and BI Developer with nearly 5 years of experience. My journey in the data field spans various industries, including the London Insurance Market and the NHS, where I have honed my skills in SQL, Power BI, Python, and ETL processes.</p>
+- 🌱 I’m currently learning **Deep Learning and NLP**
 
-<h2>🛠 Skills</h2>
-<p>
+- 👯 I’m looking to collaborate on **Machine learning Projects**
 
-<a target="_blank" href="https://pandas.pydata.org/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="42" height="42" />
-</a>
+- 🤝 I’m looking for help with **AI and Deep Learning**
 
+- 💬 Ask me about **SQL, Python, ML**
 
-<a target="_blank" href="https://seaborn.pydata.org/" target="_blank" style="display: inline-block;">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="42" height="42" />
-</a>
+- 📫 How to reach me **madisettyjagadeesh@gmail.com**
 
+- ⚡ Fun fact **Finished Masters**
 
-<a target="_blank" href="https://scikit-learn.org/" target="_blank" style="display: inline-block;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://pytorch.org/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.mysql.com/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.mongodb.com/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.microsoft.com/en-us/sql-server" target="_blank" style="display: inline-block;">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://aws.amazon.com" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.docker.com/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://git-scm.com/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/venkatamadisetty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/venkatamadisetty/" height="30" width="40" /></a>
 </p>
 
-<a href="https://github.com/JagadeeshMadisetty" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=JagadeeshMadisetty&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
-</a>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<h2>📪 Contact me</h2>
-<p>
-<a target="_blank" href="https://www.linkedin.com/in/venkatamadisetty/" target="_blank" style="display: inline-block;">
-<img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" />
-</a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jagadeeshmadisetty&show_icons=true&locale=en&layout=compact" alt="jagadeeshmadisetty" /></p>
 
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jagadeeshmadisetty&show_icons=true&locale=en" alt="jagadeeshmadisetty" /></p>
