@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jagadeesh Madisetty</h1>
-<h3 align="center">"Data Analyst | BI Developer | SQL & Python Enthusiast | Transforming Data into Actionable Insights"</h3>
+<h3 align="center">"Data Analyst | SQL & Python Enthusiast | Transforming Data into Actionable Insights"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshmadisetty&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshmadisetty" /> </p>
 
@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **AI and Deep Learning**
 
-- 💬 Ask me about **SQL, Python, ML**
+- 💬 Ask me about **SQL, Python, ML, PowerBI**
 
 - 📫 How to reach me **madisettyjagadeesh@gmail.com**
 
